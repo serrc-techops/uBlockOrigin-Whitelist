@@ -3,3 +3,6 @@
 ! Version: 1
 ! Last Updated: 11/08/2018
 @@||google.com
+@@||slack.com
+@@||slack-edge.com
+@@||slack-msgs.com
