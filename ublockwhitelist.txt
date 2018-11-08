@@ -9,6 +9,7 @@
 @@||google.com
 @@||googleusercontent.com
 @@||gstatic.com
+@@||google-analytics.com
 @@||slack.com
 @@||slack-edge.com
 @@||slack-msgs.com
