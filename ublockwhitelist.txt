@@ -2,7 +2,7 @@
 ! Expires: 1 days (update frequency)
 ! Version: 1
 ! Last Updated: 11/08/2018
-@@||google.com^
-@@||slack.com^
-@@||slack-edge.com^
-@@||slack-msgs.com^
+@@||google.com^$document
+@@||slack.com^$document
+@@||slack-edge.com^$document
+@@||slack-msgs.com^$document
