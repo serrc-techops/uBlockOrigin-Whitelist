@@ -12,5 +12,5 @@
 @@||slack.com
 @@||slack-edge.com
 @@||slack-msgs.com
-
+@@||powerschool.com
 @@||smcsd.us
