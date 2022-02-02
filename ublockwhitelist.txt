@@ -1,7 +1,7 @@
 ! Title: SERRC TechOps uBlock Origin Whitelist
 ! Expires: 1 days (update frequency)
 ! Version: 1
-! Last Updated: 09/08/2021
+! Last Updated: 02/02/2022
 
 ! https://adblockplus.org/en/filters
 ! https://adblockplus.org/en/filter-cheatsheet
@@ -33,7 +33,10 @@
 @@||item.mapnwea.org
 @@||practice.mapnwea.org
 @@||studentresources.nwea.org
-@@||sso.mapnwea.org
-@@||teach.mapnwea.org
-@@||test.mapnwea.org
-@@||newrelic.com
+
+! ThinkCentral
+! https://support.hmhco.com/s/article/HMH-Platforms-and-Content-Allowlist#TCK
+@@||eduplace.com
+@@||learningcenter.nsta.org
+@@||media.readspeaker.com
+@@||scilinks.org
