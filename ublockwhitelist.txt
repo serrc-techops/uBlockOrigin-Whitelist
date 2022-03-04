@@ -1,22 +1,25 @@
 ! Title: SERRC TechOps uBlock Origin Whitelist
 ! Expires: 1 days (update frequency)
 ! Version: 1
-! Last Updated: 02/02/2022
+! Last Updated: 02/04/2022
 
 ! https://adblockplus.org/en/filters
 ! https://adblockplus.org/en/filter-cheatsheet
 
+@@||chathamsd.org
+@@||digitalliteracyassessment.org
 @@||google.com
 @@||googleusercontent.com
+@@||googleapis.com
 @@||gstatic.com
+@@||powerschool.com
+@@||rs6.net
 @@||slack.com
 @@||slack-edge.com
 @@||slack-msgs.com
-@@||powerschool.com
 @@||smcsd.us
-@@||chathamsd.org
-@@||rs6.net
 @@||teacherease.com
+
 
 ! GoGuardian
 @@||goguardian.com
