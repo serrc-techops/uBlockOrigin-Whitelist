@@ -32,9 +32,13 @@
 @@||fonts.googleapis.com
 @@||gstatic.com
 @@||cdn.jsdelivr.net
-@@||cdn.mapnwea.org
-@@||item.mapnwea.org
+@@||lookercdn.com
+@@||looker.com
+@@||launchdarkly.com
+@@||mapnwea.org
+@@||newrelic.com
 @@||practice.mapnwea.org
+@@||speechstream.net
 @@||studentresources.nwea.org
 
 ! ThinkCentral
